@@ -27,12 +27,12 @@ export class CandidatesComponent implements OnInit {
 
   button1(){
     /*window.location.href = 'https://docs.google.com/document/d/1ZG40_IydsGMwl-4rAfAJJD6sNlupOcOisdgByxxFf0A/';*/
-    window.open('https://docs.google.com/document/d/1ZG40_IydsGMwl-4rAfAJJD6sNlupOcOisdgByxxFf0A/');
+    window.open('https://docs.google.com/document/d/18L_iH9LG7z_Ty_a6S_7DVCPagryFYnV6p72Y6TQTF5g/');
   }
 
   redirect(){
   	/*window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLScl7sgJQE5j5CY4SX_Q4ySDMz8dsTo_92g370kB_shTWp5Jyg/viewform';*/
-    window.open('https://docs.google.com/forms/d/e/1FAIpQLScl7sgJQE5j5CY4SX_Q4ySDMz8dsTo_92g370kB_shTWp5Jyg/viewform');
+    window.open('https://docs.google.com/forms/d/1YdixYE8Rl7PoVqNwDLIbRPUzbKnuLfjm9oU1XsoS4lU/');
   }
   fmp(){
     /*window.location.href = 'https://goo.gl/forms/Nft2PkKtiKZjh8Yo2';*/
