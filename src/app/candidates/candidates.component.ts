@@ -30,14 +30,20 @@ export class CandidatesComponent implements OnInit {
     window.open('https://docs.google.com/document/d/18L_iH9LG7z_Ty_a6S_7DVCPagryFYnV6p72Y6TQTF5g/');
   }
 
-  redirect(){
+  button2(){
   	/*window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLScl7sgJQE5j5CY4SX_Q4ySDMz8dsTo_92g370kB_shTWp5Jyg/viewform';*/
-    window.open('https://docs.google.com/forms/d/1YdixYE8Rl7PoVqNwDLIbRPUzbKnuLfjm9oU1XsoS4lU/');
+    window.open('https://docs.google.com/forms/d/e/1FAIpQLScsHyQvNXJY1nBX_2z-Q5bZgnLQ4NZr9tiAiYVOHOUx1CU-EA/viewform');
   }
+
+  button3(){
+    window.open('http://bit.ly/BAPCWF2020');
+  }
+
   fmp(){
     /*window.location.href = 'https://goo.gl/forms/Nft2PkKtiKZjh8Yo2';*/
     window.open('http://bit.ly/fmp2018application');
   }
+
 
   toLogin(){
   	this.router.navigateByUrl('/login');
