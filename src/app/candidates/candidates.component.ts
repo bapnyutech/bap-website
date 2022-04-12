@@ -27,21 +27,21 @@ export class CandidatesComponent implements OnInit {
 
   button1(){
     /*window.location.href = 'https://docs.google.com/document/d/1ZG40_IydsGMwl-4rAfAJJD6sNlupOcOisdgByxxFf0A/';*/
-    window.open('https://docs.google.com/document/d/18L_iH9LG7z_Ty_a6S_7DVCPagryFYnV6p72Y6TQTF5g/');
+    window.open('https://docs.google.com/forms/d/e/1FAIpQLSd6G4XeYxa9TQhJgIofDc3nZtR2UxvuhXYY-NLTy2HYbMLATw/formResponse');
   }
 
   button2(){
   	/*window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLScl7sgJQE5j5CY4SX_Q4ySDMz8dsTo_92g370kB_shTWp5Jyg/viewform';*/
-    window.open('https://docs.google.com/forms/d/e/1FAIpQLScsHyQvNXJY1nBX_2z-Q5bZgnLQ4NZr9tiAiYVOHOUx1CU-EA/viewform');
+    window.open('https://docs.google.com/forms/d/1pMI4FCCOr5oPJEHPFHWktzizCBAJDzZXVFsYAE7-FLo/viewform?fbclid=IwAR3zo29o8qeRz_dTf6Sh1snsnZ1YoN6YRWCI1c0mlHDUfqWrdMrj-wGT8t4&edit_requested=true'); 
   }
 
   button3(){
-    window.open('http://bit.ly/BAPCWF2020');
+    window.open('https://docs.google.com/forms/d/e/1FAIpQLSdJxeTcXZqruwg5gDLY3F9eMRiFzuEvZbaq17FRwzGkM77qVg/viewform');
   }
 
-  fmp(){
+  interest(){
     /*window.location.href = 'https://goo.gl/forms/Nft2PkKtiKZjh8Yo2';*/
-    window.open('http://bit.ly/fmp2018application');
+    /*window.open('https://bit.ly/f21bapapp');*/
   }
 
 
