@@ -36,7 +36,7 @@ export class CandidatesComponent implements OnInit {
   }
 
   button3(){
-    window.open('https://docs.google.com/forms/d/e/1FAIpQLSdJxeTcXZqruwg5gDLY3F9eMRiFzuEvZbaq17FRwzGkM77qVg/viewform');
+    window.open('https://bit.ly/BAPConsulting');
   }
 
   interest(){
