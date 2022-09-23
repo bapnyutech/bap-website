@@ -314,7 +314,7 @@ export class LeadersComponent implements OnInit {
     },
     {
         "bio": " ",
-        "firstName": "Stepahanie",
+        "firstName": "Stephanie",
         "key": 41,
         "lastName": "Li",
         "position": "Women in BAP "
