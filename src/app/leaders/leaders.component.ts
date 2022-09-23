@@ -226,21 +226,21 @@ export class LeadersComponent implements OnInit {
         "firstName": "Rhoshini",
         "key": 28,
         "lastName": "Raghuraman",
-        "position": "Special Chair"
+        "position": "Special Events Chair"
     },
     {
         "bio": " ",
         "firstName": "Rachel",
         "key": 29,
         "lastName": "Yeung",
-        "position": "Special "
+        "position": "Special Events"
     },
     {
         "bio": " ",
         "firstName": "Moya",
         "key": 30,
         "lastName": "Liu",
-        "position": "Special "
+        "position": "Special Events"
     },
     {
         "bio": " ",
