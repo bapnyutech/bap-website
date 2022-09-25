@@ -32,7 +32,7 @@ export class CandidatesComponent implements OnInit {
 
   button2(){
   	/*window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLScl7sgJQE5j5CY4SX_Q4ySDMz8dsTo_92g370kB_shTWp5Jyg/viewform';*/
-    window.open('https://docs.google.com/forms/d/1pMI4FCCOr5oPJEHPFHWktzizCBAJDzZXVFsYAE7-FLo/viewform?fbclid=IwAR3zo29o8qeRz_dTf6Sh1snsnZ1YoN6YRWCI1c0mlHDUfqWrdMrj-wGT8t4&edit_requested=true'); 
+    window.open('https://docs.google.com/forms/d/e/1FAIpQLSfAhaiQe7NoZ9yGvxpNGivzpHWPyjqJIdvmfq6LSQHPfyEjlQ/viewform'); 
   }
 
   button3(){
