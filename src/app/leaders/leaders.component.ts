@@ -139,17 +139,17 @@ export class LeadersComponent implements OnInit {
     },
     {
         "bio": " ",
-        "firstName": "Shannon",
+        "firstName": "Andrew",
         "key": 16,
-        "lastName": "Huang",
-        "position": "Mentoring "
+        "lastName": "Tai",
+        "position": "Mentoring Vice-Chair"
     },
     {
         "bio": " ",
-        "firstName": "Andrew",
+        "firstName": "Shannon",
         "key": 17,
-        "lastName": "Tai",
-        "position": "Mentoring Vice-Chair"
+        "lastName": "Huang",
+        "position": "Mentoring"
     },
     {
         "bio": " ",
